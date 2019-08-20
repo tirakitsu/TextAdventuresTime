@@ -1,7 +1,6 @@
 import random
 import items, world
 
-__author__ = 'Phillip Johnson'
 
 
 class Player:
